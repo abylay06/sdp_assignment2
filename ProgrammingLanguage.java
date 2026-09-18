@@ -1,0 +1,3 @@
+interface ProgrammingLanguage {
+    void work();
+}
